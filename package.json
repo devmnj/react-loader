@@ -4,7 +4,7 @@
   "description": "CSS Loader component for React",
   "author": "Manojap",
   "license": "MIT",
-  "repository": "manojap/@codehat/react-loader",
+  "repository": "manojap/react-loader",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
