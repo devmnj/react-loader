@@ -2,7 +2,7 @@
   "name": "@codehat/react-loader",
   "version": "1.0.0",
   "description": "CSS Loader component for React",
-  "author": "manojap",
+  "author": "Manojap",
   "license": "MIT",
   "repository": "manojap/@codehat/react-loader",
   "main": "dist/index.js",
