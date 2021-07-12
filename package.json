@@ -1,10 +1,12 @@
 {
-  "name": "@codehat/react-loader",
+  "name": "@manojap/react-loader",
   "version": "0.1.1",
-  "description": "CSS Loader component for React",
+  "description": "CSS animated Loader component for React",
   "author": "manojap",
   "license": "MIT",
-  "repository": "manojap/react-loader",
+  "repository":{
+    "url": "git://github.com/manojap/react-loader.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -24,7 +26,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^15.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
